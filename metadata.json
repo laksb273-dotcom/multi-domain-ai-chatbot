@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Domain AI Assistant",
+  "description": "A sophisticated AI chatbot with 10 domain-specific modes, multimodal input support, and chat history.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
